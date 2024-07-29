@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  esShader.cpp
+  esUtil.cpp
+  esUtil_win.cpp
+  Math.cpp
+  TGA.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\Utilities\Math.cpp(9,13): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/Math.cpp')
+  
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\Utilities\Math.cpp(103,13): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/Math.cpp')
+  
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\Utilities\Math.cpp(207,13): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/Math.cpp')
+  
+  Utilities.vcxproj -> D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\Release\Utilities.lib

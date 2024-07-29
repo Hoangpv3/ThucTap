@@ -1,0 +1,79 @@
+﻿D:\Microsoft VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TrainingFramework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StopTheAlien.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\StopTheAlien.cpp(62,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\StopTheAlien.cpp(62,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\StopTheAlien.cpp(67,72): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\StopTheAlien.cpp(67,69): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+  stdafx.cpp
+  GSTutorial.cpp
+  GSScore.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(121,18): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(121,18): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(121,18): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(121,18): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(128,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(128,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSScore.cpp(128,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+  GSPlay.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(152,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(152,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(162,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(190,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(191,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(193,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(194,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(195,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(196,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(375,26): warning C4305: '*=': truncation from 'double' to 'float'
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(386,24): warning C4305: '*=': truncation from 'double' to 'float'
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(493,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(494,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(495,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(526,18): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(526,18): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(526,18): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(526,18): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(533,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(533,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(533,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(553,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1258)
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameState\GSPlay.cpp(553,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+  GSOver.cpp
+  GSMenu.cpp
+  GSMachine.cpp
+  GSIntro.cpp
+  GSBase.cpp
+  Texture.cpp
+  Text.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Text.cpp(120,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Text.cpp(120,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Sound.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Sound.cpp(49,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  Shaders.cpp
+  Object.cpp
+  Model.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Model.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Model.cpp(18,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Model.cpp(24,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Model.cpp(28,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Model.cpp(33,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Model.cpp(37,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GameButton.cpp
+  Camera.cpp
+  BaseObject.cpp
+  Animation.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Animation.cpp(85,39): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Animation.cpp(92,39): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Animation.cpp(99,39): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\Animation.cpp(106,39): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Generating Code...
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\GameObject\GameButton.cpp(93): warning C4715: 'GameButton::StringToButtonType': not all control paths return a value
+  Compiling...
+  SceneManager.cpp
+  ResourceManager.cpp
+  BaseAlien.cpp
+D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\TrainingFramework\BaseAlien.cpp(82,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+BaseAlien.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  TrainingFramework.vcxproj -> D:\ThucTap\HIN032_TaTrungHieu\TrainingFramework\BIN\StopTheAlien.exe
